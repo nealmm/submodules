@@ -1,0 +1,9 @@
+[submodule "react"]
+	path = react
+	url = git@github.com:facebook/react.git
+[submodule "esbuild"]
+	path = esbuild
+	url = git@github.com:evanw/esbuild.git
+[submodule "vite"]
+	path = vite
+	url = git@github.com:vitejs/vite.git
